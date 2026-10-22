@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+cafe.db
+cafe.db-journal
+cafe.db-wal
+cafe.db-shm
